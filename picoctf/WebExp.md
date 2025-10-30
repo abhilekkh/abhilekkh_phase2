@@ -1,6 +1,6 @@
 
  
-# 1. Trivial Flag Transfer Protocol  
+# 1. Web Gauntlet
 
 > Figure out how they moved the flag.
 
